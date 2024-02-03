@@ -6,5 +6,5 @@ Adding second line to file README.md
 
 Adding new comment to check differences
 
-Checking branching feature , in new branch
+This line bound to create problem in conflit
 Updating in branch named as Updates
